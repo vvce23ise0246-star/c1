@@ -2,7 +2,7 @@ name: Java CI/CD Pipeline
 
 on:
   push:
-    branches: [ "main" ]   # change to "master" if your repo uses it
+    branches: [ "master" ]   # change to "master" if your repo uses it
 
 jobs:
   build:
